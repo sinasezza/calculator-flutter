@@ -1,5 +1,5 @@
 name: calculator
-description: "A simple calculator app with add, subtract, multiply, and divide operations, plus a light/dark mode toggle."
+description: "A Flutter calculator with simple and advanced scientific modes, four themes, history, and persisted settings."
 publish_to: 'none'
 version: 1.0.0+1
 
